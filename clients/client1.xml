@@ -1,0 +1,4 @@
+<client ip="23.94.146.44" port="2202" username="root" password="__onlyMAJ123456789__" mail="only_maj@yahoo.com">
+    <alert type="memory" limit="50%" />
+    <alert type="cpu" limit="20%" />
+</client>
